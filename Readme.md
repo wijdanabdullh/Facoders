@@ -12,6 +12,12 @@
    Introduction to Python
  Numbers and stings
 
-#__week4:__
+*__week4:__
    Introduction to Python:
    If statement,While loop
+
+*__week5:__
+   Introduction to python: List,for loop
+   
+*__week6:__
+   Dictionaries
