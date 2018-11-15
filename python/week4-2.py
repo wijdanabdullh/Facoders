@@ -1,8 +1,7 @@
-print("Numbers from 1 to 10")
-print(input("Guess the number: "))
-num =15
-if num >= 1:
-    if num <= 10:
-        print('Great you did it!')
-    if num > 10:
-        print('Try again')
+print('Numbers from 1 to 10')
+num=4
+num2=int(input('Guess the number'))
+while num!=num2:
+        num2=int(input('Guess the number'))
+else:
+    print('Great you did it')
